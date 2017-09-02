@@ -1,4 +1,5 @@
 lib/node_modules/*
+lib/.sass-cache/*
 dist
 .idea/*
 .DS_Store
